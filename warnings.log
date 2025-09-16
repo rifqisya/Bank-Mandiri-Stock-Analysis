@@ -1,0 +1,222 @@
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:Adding TBB (c:\Users\rifqi\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\s47acg7u.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\g7rsv9co.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=25178', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\s47acg7u.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\g7rsv9co.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\prophet_model72rhfekt\\prophet_model-20250905204418.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\fp46b6_i.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\8c2ty0nb.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=72433', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\fp46b6_i.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\8c2ty0nb.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\prophet_modelw__1jeza\\prophet_model-20250905204419.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\rsgbah3r.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\o2g7obgx.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=3293', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\rsgbah3r.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\o2g7obgx.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\prophet_model1e24miyq\\prophet_model-20250905205505.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\y7t88_jg.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\l8uhuw90.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=19876', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\y7t88_jg.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\l8uhuw90.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\prophet_modelcmw41r91\\prophet_model-20250905205505.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\grmvokzh.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\xok4z6i8.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=29899', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\grmvokzh.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\xok4z6i8.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\prophet_model0x0oevpu\\prophet_model-20250906021306.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\xlczap1q.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\lrp_rorx.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=39037', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\xlczap1q.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\lrp_rorx.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\prophet_modeld6oieyz1\\prophet_model-20250906021307.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\8enhiw0o.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\64_r90gl.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=60013', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\8enhiw0o.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\64_r90gl.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\prophet_modeli_95ola0\\prophet_model-20250906022308.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\yh2cp65k.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpkh2sxh1r\04fbvmpu.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=95200', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\yh2cp65k.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\04fbvmpu.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpkh2sxh1r\\prophet_modeldss6thr0\\prophet_model-20250906022308.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:Adding TBB (c:\Users\rifqi\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpt879afgx\kgz41itd.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpt879afgx\jnhfsj54.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=12462', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\kgz41itd.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\jnhfsj54.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\prophet_modelrkflt25x\\prophet_model-20250906125629.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpt879afgx\krh2yhu9.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpt879afgx\6wjfldrt.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=12212', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\krh2yhu9.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\6wjfldrt.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\prophet_modelkbfmse5c\\prophet_model-20250906125630.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpt879afgx\v98u9r2n.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpt879afgx\m89zx4v4.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=8333', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\v98u9r2n.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\m89zx4v4.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\prophet_model5zc1s9ss\\prophet_model-20250906125918.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpt879afgx\xgkuuid0.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpt879afgx\4a6cm7ne.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=55355', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\xgkuuid0.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\4a6cm7ne.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpt879afgx\\prophet_modelqoa38pk_\\prophet_model-20250906125918.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:Adding TBB (c:\Users\rifqi\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpsdr2qgn1\pssflq6q.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpsdr2qgn1\8ptacrbj.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=28653', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpsdr2qgn1\\pssflq6q.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpsdr2qgn1\\8ptacrbj.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpsdr2qgn1\\prophet_modelxhjotlat\\prophet_model-20250912021744.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpsdr2qgn1\4izqdxe4.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpsdr2qgn1\vx2q2u6n.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=41068', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpsdr2qgn1\\4izqdxe4.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpsdr2qgn1\\vx2q2u6n.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpsdr2qgn1\\prophet_modelq9d2li2q\\prophet_model-20250912021745.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+WARNING:root:The dynamic_testing arg is always set to True for the arima model.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+WARNING:root:Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+WARNING:root:Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+WARNING:root:Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+WARNING:root:Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:Adding TBB (c:\Users\rifqi\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpfqj23z4m\kywrp9dq.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpfqj23z4m\m8adtsu2.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=74278', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpfqj23z4m\\kywrp9dq.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpfqj23z4m\\m8adtsu2.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpfqj23z4m\\prophet_modelt9ttzskk\\prophet_model-20250912152559.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpfqj23z4m\8gdfzkih.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\rifqi\AppData\Local\Temp\tmpfqj23z4m\hlobme7j.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\rifqi\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=47452', 'data', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpfqj23z4m\\8gdfzkih.json', 'init=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpfqj23z4m\\hlobme7j.json', 'output', 'file=C:\\Users\\rifqi\\AppData\\Local\\Temp\\tmpfqj23z4m\\prophet_modeln0f6722h\\prophet_model-20250912152600.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
+WARNING:root:Unknown keyword arguments: dict_keys(['typ']).Passing unknown keyword arguments will raise a TypeError beginning in version 0.15.
